@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm Codiy (Cody Zheng)
+I'm Jeffrey 
 
-- 💬 Ask me about anything [here](https://github.com/codiy1992/codiy1992/issues)
+- 💬 Ask me about anything [here](https://github.com/jeffizz/jeffizz/issues)
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=codiy1992&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Status](https://github-readme-stats.vercel.app/api?username=jeffizz&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codiy1992&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffizz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**codiy1992/codiy1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jeffizz/jeffizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
